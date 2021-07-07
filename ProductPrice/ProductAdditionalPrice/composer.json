@@ -1,0 +1,17 @@
+{
+    "name": "product-price/product-additional-price",
+    "description": "Product Additional Price",
+    "require": {
+        "php": "^7.1.0"
+    },
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "ProductPrice\\ProductAdditionalPrice\\": ""
+        }
+    },
+    "version": "1.0.0"
+}
