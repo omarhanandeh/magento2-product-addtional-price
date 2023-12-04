@@ -1,6 +1,6 @@
 # magento2-product-addtional-price
 
-allow the end user to add extra product price via cms magento admin panel and reflect it for overall products price
+allow the Adminto add extra product price via cms magento admin panel and reflect it for overall products price
 
 use the following guide to set product additional price.
 - from magento admin panel 
